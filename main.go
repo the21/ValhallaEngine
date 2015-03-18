@@ -7,3 +7,6 @@ import "fmt"
 func main() {
     fmt.Println("Wanna play a game by Dmitry Voronov?")
 }
+// programmers team was fired by Voronov
+// 18.03.2015
+// RIP
